@@ -1,7 +1,10 @@
 # who
 name: Michiel D.
-dob: 6-08-1991
+
+dob: 6aug1991
+
 loc: Belgium
+
 job: System / Cloud Engineer for OMP
 
 # certs
