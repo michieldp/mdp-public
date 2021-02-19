@@ -7,7 +7,7 @@
 # certs
 - MS Win10 support engineer, issued by GlobalKnowledge Jan2019
 - MS SPO advanced power user, issued by U2U Oct2020
-- #MS AZ-104 Azure Administrator Associate, issued by MS Mar2021
+- #MS AZ-104 Azure Administrator Associate, not yet issued by MS Mar2021
 
 # work
 ongoing projects:
